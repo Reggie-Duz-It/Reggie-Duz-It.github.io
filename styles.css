@@ -1,0 +1,33 @@
+table {
+    border: 4px solid #1D8348;
+}
+
+td {
+    border: 1px dotted black;
+    text-align: center;
+}
+
+th {
+    border: 2px solid black;
+    background-color: #58D68D
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+body {
+    background-color: #ABEBC6; 
+}
+
+* {
+    font-family: monospace;
+}
+
+.first {
+    background-color: #c1f6e0;
+}
